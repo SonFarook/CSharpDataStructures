@@ -8,5 +8,10 @@ namespace CSharpDataStructures._4._Stack
 {
     internal class StackProgram
     {
+        /*
+         * Develop a program that reverses a text string provided by the user.
+         * Use a Stack to push each character of the input string and then pop them to produce
+         * the reversed string. This project will help you learn about the Last-In-First-Out (LIFO) concept.
+        */
     }
 }

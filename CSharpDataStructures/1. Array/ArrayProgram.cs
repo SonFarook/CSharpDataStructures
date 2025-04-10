@@ -8,11 +8,11 @@ namespace CSharpDataStructures._1._Array
 {
     internal class ArrayProgram
     {
-        // Task: Student Grades Management
-        // 1. Create an array to store the grades (integers) of 5 students.
-        // 2. Fill the array with 5 sample grades (e.g., between 1 and 6, or 0-100).
-        // 3. Calculate the average grade of all students.
-        // 4. Find and display the highest grade achieved.
-        // 5. Find and display the lowest grade achieved.
+        /*
+         * Build a simple program that manages a list of student names in a classroom.
+         * Use an array to store the names, allow the user to add a student name,
+         * and display all the names. This project demonstrates how to handle fixed-size collections
+         * and basic indexing operations.
+         */
     }
 }

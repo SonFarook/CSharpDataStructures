@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u00D6mer\\source\\repos\\CSharpDataStructures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|c:\\users\\\u00F6mer\\source\\repos\\csharpdatastructures\\csharpdatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|solutionrelative:csharpdatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|c:\\users\\\u00F6mer\\source\\repos\\csharpdatastructures\\csharpdatastructures\\5. queue\\queueprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|solutionrelative:csharpdatastructures\\5. queue\\queueprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|c:\\users\\\u00F6mer\\source\\repos\\csharpdatastructures\\csharpdatastructures\\3. hashset\\hashsetprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|solutionrelative:csharpdatastructures\\3. hashset\\hashsetprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|c:\\users\\\u00F6mer\\source\\repos\\csharpdatastructures\\csharpdatastructures\\4. stack\\stackprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|solutionrelative:csharpdatastructures\\4. stack\\stackprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|c:\\users\\\u00F6mer\\source\\repos\\csharpdatastructures\\csharpdatastructures\\3. hashset\\hashsetprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|solutionrelative:csharpdatastructures\\3. hashset\\hashsetprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|c:\\users\\\u00F6mer\\source\\repos\\csharpdatastructures\\csharpdatastructures\\5. queue\\queueprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|solutionrelative:csharpdatastructures\\5. queue\\queueprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|c:\\users\\\u00F6mer\\source\\repos\\csharpdatastructures\\csharpdatastructures\\2. dictionary\\dictionaryprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|c:\\users\\\u00F6mer\\source\\repos\\csharpdatastructures\\csharpdatastructures\\1. array\\arrayprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|solutionrelative:csharpdatastructures\\1. array\\arrayprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|c:\\users\\\u00F6mer\\source\\repos\\csharpdatastructures\\csharpdatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D5CA7D-432A-4DF0-B292-7010E4B76C44}|CSharpDataStructures\\CSharpDataStructures.csproj|solutionrelative:csharpdatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,76 +34,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "QueueProgram.cs",
               "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\CSharpDataStructures\\CSharpDataStructures\\5. Queue\\QueueProgram.cs",
               "RelativeDocumentMoniker": "CSharpDataStructures\\5. Queue\\QueueProgram.cs",
               "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\CSharpDataStructures\\CSharpDataStructures\\5. Queue\\QueueProgram.cs",
               "RelativeToolTip": "CSharpDataStructures\\5. Queue\\QueueProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T12:42:44.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StackProgram.cs",
               "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\CSharpDataStructures\\CSharpDataStructures\\4. Stack\\StackProgram.cs",
               "RelativeDocumentMoniker": "CSharpDataStructures\\4. Stack\\StackProgram.cs",
               "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\CSharpDataStructures\\CSharpDataStructures\\4. Stack\\StackProgram.cs",
               "RelativeToolTip": "CSharpDataStructures\\4. Stack\\StackProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T12:42:36.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HashSetProgram.cs",
               "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\CSharpDataStructures\\CSharpDataStructures\\3. HashSet\\HashSetProgram.cs",
               "RelativeDocumentMoniker": "CSharpDataStructures\\3. HashSet\\HashSetProgram.cs",
               "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\CSharpDataStructures\\CSharpDataStructures\\3. HashSet\\HashSetProgram.cs",
               "RelativeToolTip": "CSharpDataStructures\\3. HashSet\\HashSetProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T12:42:30.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "DictionaryProgram.cs",
               "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\CSharpDataStructures\\CSharpDataStructures\\2. Dictionary\\DictionaryProgram.cs",
               "RelativeDocumentMoniker": "CSharpDataStructures\\2. Dictionary\\DictionaryProgram.cs",
               "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\CSharpDataStructures\\CSharpDataStructures\\2. Dictionary\\DictionaryProgram.cs",
               "RelativeToolTip": "CSharpDataStructures\\2. Dictionary\\DictionaryProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T12:42:23.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ArrayProgram.cs",
               "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\CSharpDataStructures\\CSharpDataStructures\\1. Array\\ArrayProgram.cs",
               "RelativeDocumentMoniker": "CSharpDataStructures\\1. Array\\ArrayProgram.cs",
               "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\CSharpDataStructures\\CSharpDataStructures\\1. Array\\ArrayProgram.cs",
               "RelativeToolTip": "CSharpDataStructures\\1. Array\\ArrayProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T12:42:08.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\CSharpDataStructures\\CSharpDataStructures\\Program.cs",
               "RelativeDocumentMoniker": "CSharpDataStructures\\Program.cs",
