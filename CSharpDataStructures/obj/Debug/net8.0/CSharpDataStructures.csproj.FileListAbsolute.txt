@@ -12,3 +12,4 @@ C:\Users\Ömer\source\repos\CSharpDataStructures\CSharpDataStructures\obj\Debug\
 C:\Users\Ömer\source\repos\CSharpDataStructures\CSharpDataStructures\obj\Debug\net8.0\CSharpDataStructures.pdb
 C:\Users\Ömer\source\repos\CSharpDataStructures\CSharpDataStructures\obj\Debug\net8.0\CSharpDataStructures.genruntimeconfig.cache
 C:\Users\Ömer\source\repos\CSharpDataStructures\CSharpDataStructures\obj\Debug\net8.0\ref\CSharpDataStructures.dll
+C:\Users\Ömer\source\repos\CSharpDataStructures\CSharpDataStructures\obj\Debug\net8.0\CSharpDataStructures.sourcelink.json
