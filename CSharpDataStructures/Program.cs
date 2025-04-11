@@ -9,6 +9,64 @@ internal class Program
 {
     static void Main(string[] args)
     {
+        while (true)
+        {
+            StartMenu();
+
+            Console.Write("\nYour selection: ");
+            string input = Console.ReadLine();
+
+            Console.Clear();
+
+            if (int.TryParse(input, out int userSelection))
+            {
+                switch (userSelection)
+                {
+                    case 0:
+                        Console.WriteLine("Exiting program...");
+                        return;
+
+                    case 1:
+                        ArrayProgram.Run();
+                        break;
+
+                    case 2:
+                        DictionaryProgram.Run();
+                        break;
+
+                    case 3:
+                        //HashSetProgram.Run();
+                        break;
+
+                    case 4:
+                        //StackProgram.Run();
+                        break;
+
+                    case 5:
+                        //QueueProgram.Run();
+                        break;
+
+                    default:
+                        Console.WriteLine("Invalid input. Choose between 0 and 5.");
+                        break;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Please enter a valid number.");
+            }
+
+            ReturnBack();
+        }
+    }
+    public static void ReturnBack()
+    {
+        Console.WriteLine("\nPress any key to return to the menu...");
+        Console.ReadKey();
+    }
+    private static void StartMenu()
+    {
+        Console.Clear();
         Console.WriteLine("* Welcome to my C# DataStructures App.");
         Console.WriteLine("* This is a basic app for educational purposes.");
         Console.WriteLine("* Choose a number from 1-5 to start the app for the specific data structure.");
@@ -21,51 +79,6 @@ internal class Program
         Console.WriteLine("4 - Stack App");
         Console.WriteLine("5 - Queue App");
         Console.WriteLine("0 - Exit");
-        Console.Write("\nChoose a number from 1-5: ");
-
-        if (int.TryParse(Console.ReadLine(), out int userSelection))
-        {
-            switch (userSelection)
-            {
-                case 0:
-                    Console.WriteLine("Exiting Application...");
-                    break;
-
-                case 1:
-                    // Starte das Array-Projekt
-                    ArrayProgram.Run();
-                    break;
-
-                case 2:
-                    // Starte das Dictionary-Projekt
-                    //DictionaryProgram.Run();
-                    break;
-
-                case 3:
-                    // Starte das HashSet-Projekt
-                    //HashSetProgram.Run();
-                    break;
-
-                case 4:
-                    // Starte das Stack-Projekt
-                    //StackProgram.Run();
-                    break;
-
-                case 5:
-                    // Starte das Queue-Projekt
-                    //QueueProgram.Run();
-                    break;
-
-                default:
-                    Console.WriteLine("Invalid input. Try again.");
-                    break;
-            }
-        }
-        else
-        {
-            Console.WriteLine("Invalid input. Please enter a valid number.");
-        }
-
-        Console.ReadKey();
     }
+
 }

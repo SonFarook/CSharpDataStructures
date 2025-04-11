@@ -56,7 +56,7 @@ namespace CSharpDataStructures._1._Array
                     continue;
                 }
 
-                // Resize the Array by twice the size, every time the array cant hold any more items
+                // Resize the Array by twice the size, everytime the array cant hold any more items
                 if (count == studentNames.Length) 
                 {
                     Array.Resize(ref studentNames, studentNames.Length * 2);
@@ -65,8 +65,6 @@ namespace CSharpDataStructures._1._Array
                 studentNames[count] = newStudentName;
                 count++;
             }
-
-            Console.ReadKey();
         }
     }
 }
