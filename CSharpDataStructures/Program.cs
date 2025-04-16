@@ -35,7 +35,7 @@ internal class Program
                         break;
 
                     case 3:
-                        //HashSetProgram.Run();
+                        HashSetProgram.Run();
                         break;
 
                     case 4:
@@ -63,6 +63,12 @@ internal class Program
     {
         Console.WriteLine("\nPress any key to return to the menu...");
         Console.ReadKey();
+    }
+    public static void ActionCompleted(string message)
+    {
+        Console.Clear();
+        Console.WriteLine(message);
+        Program.ReturnBack();
     }
     private static void StartMenu()
     {

@@ -63,13 +63,13 @@ namespace CSharpDataStructures._2._Dictionary
                             break;
 
                         default:
-                            Console.WriteLine("Invalid choice. Please select a number from 0 to 4.");
+                            Console.WriteLine("ERROR! Invalid choice. Please select a number from 0 to 4.");
                             break;
                     }
                 }
                 else
                 {
-                    Console.WriteLine("Invalid input. Please enter a number.");
+                    Console.WriteLine("ERROR! Invalid input. Please enter a number.");
                 }
 
                 Console.Clear();
@@ -108,7 +108,7 @@ namespace CSharpDataStructures._2._Dictionary
                 return productDescription;
             }
 
-            Console.WriteLine("Invalid description. Please enter a valid product description.");
+            Console.WriteLine("ERROR! Invalid description. Please enter a valid product description.");
             return null;
         }
 
@@ -129,9 +129,7 @@ namespace CSharpDataStructures._2._Dictionary
                     continue;
 
                 ManualAddProduct(productDescription);
-                Console.Clear();
-                Console.WriteLine("Product added successfully.");
-                Program.ReturnBack();
+                Program.ActionCompleted("Product added successfully.");
                 break;
             }
         }
@@ -147,10 +145,7 @@ namespace CSharpDataStructures._2._Dictionary
                     continue;
 
                 products.Remove((int)productID);
-                Console.Clear();
-                //.Remove doesnt accept nullable values
-                Console.WriteLine($"Product with ID {productID} removed successfully.");
-                Program.ReturnBack();
+                Program.ActionCompleted($"Product with ID {productID} removed successfully.");
                 break;
             }
         }
@@ -172,9 +167,7 @@ namespace CSharpDataStructures._2._Dictionary
                     continue;
 
                 products[productID.Value] = productDescription;
-                Console.Clear();
-                Console.WriteLine($"Product with ID {productID} updated to: \"{productDescription}\"");
-                Program.ReturnBack();
+                Program.ActionCompleted($"Product with ID {productID} updated to: \"{productDescription}\"");
                 break;
             }
         }
@@ -189,10 +182,7 @@ namespace CSharpDataStructures._2._Dictionary
                 if (productID == null)
                     continue;
 
-                Console.Clear();
-                // Index cant be null
-                Console.WriteLine($"Product Description for ID {productID}: {products[(int)productID]}");
-                Program.ReturnBack();
+                Program.ActionCompleted($"Product Description for ID {productID}: {products[(int)productID]}");
                 break;
             }
         }

@@ -30,9 +30,9 @@ namespace CSharpDataStructures._1._Array
 
                 string? newStudentName = Console.ReadLine()?.Trim(); // Used the Trim() method, to get rid of unnecessary whitespace
 
-                if(string.Equals(newStudentName, "exit", StringComparison.OrdinalIgnoreCase)) // Used OrdinalIgnoreCase to ignore the case of both strings
+                if(string.Equals(newStudentName, "exit", StringComparison.OrdinalIgnoreCase)) 
                 {
-                    Console.WriteLine("Exiting Program...");
+                    Console.WriteLine("Exiting Program...\n");
 
                     if (count == 0) 
                     {
@@ -52,7 +52,7 @@ namespace CSharpDataStructures._1._Array
 
                 if (string.IsNullOrEmpty(newStudentName)) 
                 {
-                    Console.WriteLine("Invalid input. Please enter a valid name.");
+                    Console.WriteLine("ERROR! Invalid input. Please enter a valid name.");
                     continue;
                 }
 
