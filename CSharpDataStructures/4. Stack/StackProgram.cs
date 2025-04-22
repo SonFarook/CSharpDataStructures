@@ -13,5 +13,30 @@ namespace CSharpDataStructures._4._Stack
          * Use a Stack to push each character of the input string and then pop them to produce
          * the reversed string. This project will help you learn about the Last-In-First-Out (LIFO) concept.
         */
+
+        public static void Run() 
+        {
+            Stack<char> stack = new Stack<char>();
+
+            Console.Write("Enter a String: ");
+            string? userInput = Console.ReadLine();
+
+            foreach (char c in userInput) 
+            {
+                stack.Push(c);
+            }
+
+            //optional: use StringBuilder
+
+            string reversedString = "";
+
+            while (stack.Count > 0) 
+            {
+                reversedString += stack.Peek();
+                stack.Pop();
+            }
+           
+            Console.WriteLine($"{userInput} in reverse is : {reversedString}");
+        }
     }
 }

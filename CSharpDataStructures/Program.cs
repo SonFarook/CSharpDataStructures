@@ -39,7 +39,7 @@ internal class Program
                         break;
 
                     case 4:
-                        //StackProgram.Run();
+                        StackProgram.Run();
                         break;
 
                     case 5:
