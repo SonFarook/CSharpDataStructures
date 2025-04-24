@@ -2,7 +2,8 @@
 
 Welcome to a **beginner-friendly** C# project designed to help you **understand and practice core data structures** through small, practical console-based challenges. Whether you're new to C# or brushing up on the basics, this project is a great hands-on way to get started!
 
-![Project Preview](Preview.png)
+![image](https://github.com/user-attachments/assets/c5139909-253c-4f28-bb9c-2c52b6182f9d)
+
 
 ---
 
