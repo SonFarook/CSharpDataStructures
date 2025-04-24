@@ -32,8 +32,7 @@ namespace CSharpDataStructures._4._Stack
 
             while (stack.Count > 0) 
             {
-                reversedString += stack.Peek();
-                stack.Pop();
+                reversedString += stack.Pop();
             }
            
             Console.WriteLine($"{userInput} in reverse is : {reversedString}");

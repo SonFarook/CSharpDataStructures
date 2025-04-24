@@ -43,7 +43,7 @@ internal class Program
                         break;
 
                     case 5:
-                        //QueueProgram.Run();
+                        QueueProgram.Run();
                         break;
 
                     default:
